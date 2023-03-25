@@ -1,0 +1,26 @@
+# Ignorar archivos binarios generados
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Ignorar archivos generados por la compilación
+target/
+bin/
+build/
+out/
+
+# Ignorar archivos de configuración local
+.idea/
+.metadata/
+*.iml
+*.ipr
+*.iws
+*.log
+*.bak
+
+# Ignorar archivos de respaldo
+*~
+*.swp
+*.bak
